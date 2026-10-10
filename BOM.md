@@ -14,7 +14,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [CNKOO 10pcs/set 60W Soldering Iron Kit with Gun 110V Adjustable Temperature Tool Set (200~450℃) Includes 5 Tips & Wire S](https://www.walmart.ca/en/ip/CNKOO-10pcs-set-60W-Soldering-Iron-Kit-with-Gun-110V-Adjustable-Temperature-Tool-Set-200-450-Includes-5-Tips-Wire-Stand-Sponge-US-Plugs/38TYBF1YIZNB?selectedSellerId=239BE781C824458E949FE329F0ED8396) | Solder and Soldering Iron Kit to create PCB | 1 | $14.90 | $14.90 | [Walmart](https://www.walmart.ca/en/ip/CNKOO-10pcs-set-60W-Soldering-Iron-Kit-with-Gun-110V-Adjustable-Temperature-Tool-Set-200-450-Includes-5-Tips-Wire-Stand-Sponge-US-Plugs/38TYBF1YIZNB?selectedSellerId=239BE781C824458E949FE329F0ED8396) |
 | **Parts subtotal** | — | — | — | **$14.90** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$14.90** | — |
+| **Tax & shipping** | — | — | — | **$1.79** | — |
+| **Total** | — | — | — | **$16.69** | — |
 
-$15.10 left of the tier's funding.
+$13.31 left of the tier's funding.
