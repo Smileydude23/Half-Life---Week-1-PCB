@@ -16,10 +16,9 @@
 | [Seeed Studio XIAO ESP32-C6](https://www.seeedstudio.com/Seeed-Studio-XIAO-ESP32C6-p-5884.html) | Starbie Component | 1 | $5.20 | $5.20 | [Seeed Studio](https://www.seeedstudio.com/Seeed-Studio-XIAO-ESP32C6-p-5884.html) |
 | [OLED Display 128x64](https://share.temu.com/xX6FqleCFqA) | Starbie Component | 1 | $2.85 | $2.85 | [Temu](https://share.temu.com/xX6FqleCFqA) |
 | [Cherry MX Switches (2 pack)](https://www.amazon.ca/Mechanical-Keyboard-Replace-Switches-Original/dp/B0DBQ7NSPQ) | Starbie Component | 1 | $2.99 | $2.99 | [Amazon](https://www.amazon.ca/Mechanical-Keyboard-Replace-Switches-Original/dp/B0DBQ7NSPQ) |
-| [Resistor Variety Pack](https://www.amazon.ca/ELEGOO-Resistor-Assortment-Compliant-Respberry/dp/B072BL2VX1?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A2WWHQ25ENKVJ1) | Starbie Component | 1 | $15.99 | $15.99 | [Amazon](https://www.amazon.ca/ELEGOO-Resistor-Assortment-Compliant-Respberry/dp/B072BL2VX1?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A2WWHQ25ENKVJ1) |
 | [MPU6050 Module and 01x08 pin](https://share.temu.com/j0jbGnrtyUA) | Starbie Component | 1 | $2.29 | $2.29 | [Temu](https://share.temu.com/j0jbGnrtyUA) |
-| **Parts subtotal** | — | — | — | **$30.31** | — |
+| **Parts subtotal** | — | — | — | **$14.32** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$30.31** | — |
+| **Total** | — | — | — | **$14.32** | — |
 
-**$0.31 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+$15.68 left of the tier's funding.
