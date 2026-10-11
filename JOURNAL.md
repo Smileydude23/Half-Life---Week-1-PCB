@@ -51,7 +51,7 @@
 - Learned how make edits to the arduino project
 - Made edits and changes called for in the tutorial
 -Conceptualized a future edit (potential pong game when selecting play option)
--Changed pet sprite
+-Changed pet sprite (to a black and white version of my PFP)
 
 ![Screenshot 2026-10-10 182405](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/faGqWIhWIB38xFXLRpQI0BHBbHDOTMUN/59b6a3f087f3dc22d20055ffc261006fc8244e0b2a3ef1f700097b9110186fd0.png)
 
