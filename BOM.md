@@ -15,7 +15,7 @@
 | [CNKOO 10pcs/set 60W Soldering Iron Kit with Gun 110V Adjustable Temperature Tool Set (200~450℃) Includes 5 Tips & Wire S](https://www.walmart.ca/en/ip/CNKOO-10pcs-set-60W-Soldering-Iron-Kit-with-Gun-110V-Adjustable-Temperature-Tool-Set-200-450-Includes-5-Tips-Wire-Stand-Sponge-US-Plugs/38TYBF1YIZNB?selectedSellerId=239BE781C824458E949FE329F0ED8396) | Solder and Soldering Iron Kit to create PCB | 1 | $14.90 | $14.90 | [Walmart](https://www.walmart.ca/en/ip/CNKOO-10pcs-set-60W-Soldering-Iron-Kit-with-Gun-110V-Adjustable-Temperature-Tool-Set-200-450-Includes-5-Tips-Wire-Stand-Sponge-US-Plugs/38TYBF1YIZNB?selectedSellerId=239BE781C824458E949FE329F0ED8396) |
 | [DHT11](https://electropeak.com/dht11-humidity-temperature-sensor) | Starbie Component | 1 | $0.99 | $0.99 | [Electropeak](https://electropeak.com/dht11-humidity-temperature-sensor) |
 | **Parts subtotal** | — | — | — | **$15.89** | — |
-| **Tax & shipping** | — | — | — | **$1.79** | — |
-| **Total** | — | — | — | **$17.68** | — |
+| **Tax & shipping** | — | — | — | **$0.00** | — |
+| **Total** | — | — | — | **$15.89** | — |
 
-$12.32 left of the tier's funding.
+$14.11 left of the tier's funding.
