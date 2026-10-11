@@ -20,7 +20,7 @@
 | [Resistor Variety Pack](https://share.temu.com/rYylheDsPbA) | Starbie Component | 1 | $2.07 | $2.07 | [Temu](https://share.temu.com/rYylheDsPbA) |
 | [4 Keycaps](https://share.temu.com/8qPQsM6ro4A) | Keycaps for the Cherry MX Switches | 1 | $2.80 | $2.80 | [Temu](https://share.temu.com/8qPQsM6ro4A) |
 | **Parts subtotal** | — | — | — | **$15.32** | — |
-| **Tax & shipping** | — | — | — | **$8.11** | — |
-| **Total** | — | — | — | **$23.43** | — |
+| **Tax & shipping** | — | — | — | **$8.61** | — |
+| **Total** | — | — | — | **$23.93** | — |
 
-$6.57 left of the tier's funding.
+$6.07 left of the tier's funding.
