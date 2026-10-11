@@ -12,13 +12,12 @@
 
 | Part | What it's for | Qty | Unit | Total | Vendor |
 | --- | --- | --- | --- | --- | --- |
-| [CNKOO 10pcs/set 60W Soldering Iron Kit with Gun 110V Adjustable Temperature Tool Set (200~450℃) Includes 5 Tips & Wire S](https://www.walmart.ca/en/ip/CNKOO-10pcs-set-60W-Soldering-Iron-Kit-with-Gun-110V-Adjustable-Temperature-Tool-Set-200-450-Includes-5-Tips-Wire-Stand-Sponge-US-Plugs/38TYBF1YIZNB?selectedSellerId=239BE781C824458E949FE329F0ED8396) | Solder and Soldering Iron Kit to create PCB | 1 | $14.90 | $14.90 | [Walmart](https://www.walmart.ca/en/ip/CNKOO-10pcs-set-60W-Soldering-Iron-Kit-with-Gun-110V-Adjustable-Temperature-Tool-Set-200-450-Includes-5-Tips-Wire-Stand-Sponge-US-Plugs/38TYBF1YIZNB?selectedSellerId=239BE781C824458E949FE329F0ED8396) |
 | [DHT11](https://electropeak.com/dht11-humidity-temperature-sensor) | Starbie Component | 1 | $0.99 | $0.99 | [Electropeak](https://electropeak.com/dht11-humidity-temperature-sensor) |
 | [Seeed Studio XIAO ESP32-C6](https://www.seeedstudio.com/Seeed-Studio-XIAO-ESP32C6-p-5884.html) | Starbie Component | 1 | $5.20 | $5.20 | [Seeed Studio](https://www.seeedstudio.com/Seeed-Studio-XIAO-ESP32C6-p-5884.html) |
 | [OLED Display 128x64](https://share.temu.com/xX6FqleCFqA) | Starbie Component | 1 | $2.85 | $2.85 | [Temu](https://share.temu.com/xX6FqleCFqA) |
 | [Cherry MX Switches (2 pack)](https://www.amazon.ca/Mechanical-Keyboard-Replace-Switches-Original/dp/B0DBQ7NSPQ) | Starbie Component | 1 | $2.99 | $2.99 | [Amazon](https://www.amazon.ca/Mechanical-Keyboard-Replace-Switches-Original/dp/B0DBQ7NSPQ) |
-| **Parts subtotal** | — | — | — | **$26.93** | — |
+| **Parts subtotal** | — | — | — | **$12.03** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$26.93** | — |
+| **Total** | — | — | — | **$12.03** | — |
 
-$3.07 left of the tier's funding.
+$17.97 left of the tier's funding.
