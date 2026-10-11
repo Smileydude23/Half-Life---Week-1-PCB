@@ -19,7 +19,7 @@
 | [MPU6050 Module and 01x08 pin](https://share.temu.com/j0jbGnrtyUA) | Starbie Component | 1 | $1.67 | $1.67 | [Temu](https://share.temu.com/j0jbGnrtyUA) |
 | [Resistor Variety Pack](https://share.temu.com/rYylheDsPbA) | Starbie Component | 1 | $2.07 | $2.07 | [Temu](https://share.temu.com/rYylheDsPbA) |
 | **Parts subtotal** | — | — | — | **$12.52** | — |
-| **Tax & shipping** | — | — | — | **$2.06** | — |
-| **Total** | — | — | — | **$14.58** | — |
+| **Tax & shipping** | — | — | — | **$8.11** | — |
+| **Total** | — | — | — | **$20.63** | — |
 
-$15.42 left of the tier's funding.
+$9.37 left of the tier's funding.
