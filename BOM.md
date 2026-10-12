@@ -19,9 +19,8 @@
 | [MPU6050 Module and 01x08 pin](https://share.temu.com/8b2jcn3grKA) | Starbie Component | 1 | $1.61 | $1.61 | [Temu](https://share.temu.com/8b2jcn3grKA) |
 | [Resistor Variety Pack](https://share.temu.com/8b2jcn3grKA) | Starbie Component | 1 | $2.24 | $2.24 | [Temu](https://share.temu.com/8b2jcn3grKA) |
 | [Keycaps (10 pack)](https://share.temu.com/h7hxsF63sEA) | Keycaps for the switches | 1 | $1.26 | $1.26 | [Temu](https://share.temu.com/h7hxsF63sEA) |
-| [Micro USB Cord](https://share.temu.com/WLs5lYA9M0C) | Data transfer from computer to XIAO ESP32 | 1 | $2.58 | $2.58 | [Temu](https://share.temu.com/WLs5lYA9M0C) |
-| **Parts subtotal** | — | — | — | **$15.30** | — |
+| **Parts subtotal** | — | — | — | **$12.72** | — |
 | **Tax & shipping** | — | — | — | **$8.61** | — |
-| **Total** | — | — | — | **$23.91** | — |
+| **Total** | — | — | — | **$21.33** | — |
 
-$6.09 left of the tier's funding.
+$8.67 left of the tier's funding.
