@@ -22,7 +22,7 @@
 | [Solder](https://www.amazon.ca/Soldering-Welding-Promotion-Durable-Processing/dp/B0GFMXMZ36/ref=asc_df_B0GFMXMZ36?mcid=ec6c8f5b65b9309c909ac1eae124a0c6&tag=googleshopc0c-20&linkCode=df0&hvadid=797178855543&hvpos=&hvnetw=g&hvrand=15208472311860770710&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9001495&hvtargid=pla-2467980131731&psc=1&hvocijid=15208472311860770710-B0GFMXMZ36-&hvexpln=0&gad_source=1) | To solder parts | 1 | $1.05 | $1.05 | [Amazon](https://www.amazon.ca/Soldering-Welding-Promotion-Durable-Processing/dp/B0GFMXMZ36/ref=asc_df_B0GFMXMZ36?mcid=ec6c8f5b65b9309c909ac1eae124a0c6&tag=googleshopc0c-20&linkCode=df0&hvadid=797178855543&hvpos=&hvnetw=g&hvrand=15208472311860770710&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9001495&hvtargid=pla-2467980131731&psc=1&hvocijid=15208472311860770710-B0GFMXMZ36-&hvexpln=0&gad_source=1) |
 | [USB-C Port](https://share.temu.com/IRJl58UtMLA) | For porting code | 1 | $2.84 | $2.84 | [Temu](https://share.temu.com/IRJl58UtMLA) |
 | **Parts subtotal** | — | — | — | **$16.61** | — |
-| **Tax & shipping** | — | — | — | **$3.13** | — |
-| **Total** | — | — | — | **$19.74** | — |
+| **Tax & shipping** | — | — | — | **$3.68** | — |
+| **Total** | — | — | — | **$20.29** | — |
 
-$10.26 left of the tier's funding.
+$9.71 left of the tier's funding.
