@@ -20,7 +20,7 @@
 | [Resistor Variety Pack](https://share.temu.com/8b2jcn3grKA) | Starbie Component | 1 | $2.24 | $2.24 | [Temu](https://share.temu.com/8b2jcn3grKA) |
 | [Keycaps (10 pack)](https://share.temu.com/h7hxsF63sEA) | Keycaps for the switches | 1 | $1.26 | $1.26 | [Temu](https://share.temu.com/h7hxsF63sEA) |
 | **Parts subtotal** | — | — | — | **$12.72** | — |
-| **Tax & shipping** | — | — | — | **$34.36** | — |
-| **Total** | — | — | — | **$47.08** | — |
+| **Tax & shipping** | — | — | — | **$3.13** | — |
+| **Total** | — | — | — | **$15.85** | — |
 
-**$17.08 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+$14.15 left of the tier's funding.
