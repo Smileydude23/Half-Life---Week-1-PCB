@@ -21,7 +21,7 @@
 | [Keycaps (10 pack)](https://share.temu.com/h7hxsF63sEA) | Keycaps for the switches | 1 | $1.26 | $1.26 | [Temu](https://share.temu.com/h7hxsF63sEA) |
 | [PCB Board](https://cart.jlcpcb.com/quote?stencilLayer=2&stencilWidth=100&stencilLength=100&stencilCounts=5&plateType=1&spm=Jlcpcb.Homepage.1010&spm=Jlcpcb.Instantquote.1005&_t=1791764968126&up_spm=Jlcpcb.Loginpage.1003) | Starbie Component | 1 | $4.00 | $4.00 | [JLCPCB](https://cart.jlcpcb.com/quote?stencilLayer=2&stencilWidth=100&stencilLength=100&stencilCounts=5&plateType=1&spm=Jlcpcb.Homepage.1010&spm=Jlcpcb.Instantquote.1005&_t=1791764968126&up_spm=Jlcpcb.Loginpage.1003) |
 | **Parts subtotal** | — | — | — | **$16.72** | — |
-| **Tax & shipping** | — | — | — | **$8.61** | — |
-| **Total** | — | — | — | **$25.33** | — |
+| **Tax & shipping** | — | — | — | **$34.36** | — |
+| **Total** | — | — | — | **$51.08** | — |
 
-$4.67 left of the tier's funding.
+**$21.08 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
