@@ -26,3 +26,10 @@ BOM chart:
 <img width="840" height="677" alt="Screenshot 2026-10-09 201229" src="https://github.com/user-attachments/assets/9b10470b-c785-44ac-afb4-75b3dc89541f" />
 <img width="1037" height="456" alt="Screenshot 2026-10-09 190352" src="https://github.com/user-attachments/assets/d4512bf8-dd03-4d0f-aba3-4ae69afc43f4" />
 <img width="1031" height="641" alt="Screenshot 2026-10-09 230509" src="https://github.com/user-attachments/assets/a00efd42-a3b8-4bf3-9386-7c2d998764a2" />
+
+As of 2026/11/10 I have updated the PCB. These are images after edits for the first revision has been made. New wiring, moved XIAO, and silkscreen.
+<img width="951" height="695" alt="Screenshot 2026-11-10 193050" src="https://github.com/user-attachments/assets/a13e8163-3ff4-4f7c-94f6-28266180cf6b" />
+<img width="1127" height="707" alt="Screenshot 2026-11-10 193022" src="https://github.com/user-attachments/assets/b95d5b7e-d349-4366-a56d-9dde45742559" />
+<img width="721" height="717" alt="Screenshot 2026-11-10 193006" src="https://github.com/user-attachments/assets/96459980-49ba-41f3-bd18-40ea46f42972" />
+<img width="737" height="716" alt="Screenshot 2026-11-10 192953" src="https://github.com/user-attachments/assets/8f1b452b-8671-4374-8a1a-589fa4123c3a" />
+
